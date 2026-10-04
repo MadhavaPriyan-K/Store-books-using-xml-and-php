@@ -1,0 +1,17 @@
+<library>
+    <books>
+        <ispn>101</ispn>    
+        <title>The Art of Discipline</title>
+        <author>Madhava</author>
+        <Price>500</Price>
+        <publisher>Maddyzz Companies</publisher>
+    </books>
+    <books>
+        <ispn>102</ispn>    
+        <title>The Art of Perfect</title>
+        <author>Priyan</author>
+        <Price>1000</Price>
+        <publisher>Krishna Companies</publisher>
+    </books>
+</library>
+
